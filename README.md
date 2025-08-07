@@ -663,7 +663,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
     - [x] push_front(value) - adds an item to the front of the list
     - [x] pop_front() - remove the front item and return its value
-    - [ ] push_back(value) - adds an item at the end
+    - [x] push_back(value) - adds an item at the end
     - [ ] pop_back() - removes end item and returns its value
     - [ ] front() - get the value of the front item
     - [ ] back() - get the value of the end item
