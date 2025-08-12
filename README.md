@@ -669,7 +669,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] back() - get the value of the end item
     - [x] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
     - [x] erase(index) - removes node at given index
-    - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
+    - [x] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
     - [x] reverse() - reverses the list
     - [x] remove_value(value) - removes the first item in the list with this value
   - [ ] Doubly-linked List
